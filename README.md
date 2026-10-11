@@ -20,20 +20,17 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rillcuii&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
-<a href="https://github.com/rillcuii?tab=followers"><img src="https://img.shields.io/github/followers/rillcuii?style=for-the-badge&logo=github&color=334155&labelColor=0f172a" alt="GitHub followers" /></a>
-
 </div>
 
 ---
 
-## `$ whoami`
+## About Me
 
 ```yaml
 username: rillcuii
 focus: Backend Development
 main_stack: [PHP, Laravel, MySQL]
-also_exploring: [Python, Java, C#]
+also_exploring: [Python, Java]
 currently: Building projects and improving system design
 mindset: Learn by building. Improve by questioning.
 ```
@@ -49,7 +46,7 @@ I enjoy turning messy requirements into structured systems — from database des
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,java,cs,git,github,vscode&theme=dark&perline=9" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,java,tailwind,git,js,github,vscode&theme=dark&perline=5" alt="Technology icons" />
 
 </div>
 
@@ -69,8 +66,6 @@ I enjoy turning messy requirements into structured systems — from database des
 <img src="https://streak-stats.demolab.com?user=rillcuii&theme=tokyonight&hide_border=true&background=0B1020&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9" alt="GitHub streak stats" width="72%" />
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rillcuii&bg_color=0B1020&color=CBD5E1&line=67E8F9&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="GitHub contribution activity graph" />
 
 </div>
 
